@@ -1,16 +1,29 @@
 # "Seja bem vindo ao meu Portifólio"
 
-Aqui no meu repósitorio você tera 2 tipos de arquivos:
-uns são projetos de códigos python e outro são Dashboard de Power bi.
+Neste repositório, você encontrará dois tipos de arquivos: projetos de código em Python e dashboards do Power BI.
 
-#Python
-para acessar os projetos de Python entre no repositório e escolha o arquivo que dejseja vizualizar.
-Obs: " se vc abrir o arquivo e clicar em " ..." você verá uma breve descrição do projeto."
+# Python
+Para acessar os projetos de Python, entre no repositório e escolha o arquivo que deseja visualizar. Obs: Se você abrir o arquivo e clicar em " ...", verá uma breve descrição do projeto.
 
-#Dashboards
-Para vizualizar tem dois jeitos:
-1° entre no repositório e veja em PDF
+# Dashboards
+Para visualizar os dashboards, você tem duas opções:
 
-2° irei deixar aqui no "README" uma descrição dos dashboards e abaixo de cada um irei deixar um link nele voçê ira entrar e ver os dashboards direto no Power BI e podera testar as funçoes.
+1° Entre no repositório e veja em PDF.
+
+2° No "README", você encontrará uma descrição dos dashboards e, abaixo de cada um, um link para acessá-los diretamente no Power BI, onde poderá testar as funções.
+
+
+
+"Dashboard de vendas"
+
+Nesse dashboard de vendas foi destacado as vendas, média e soma dos produtos, tudo separado e ainda é posivél verificar todos esses dados separados por mês ou por anos basta escolher.
+Também é possivél verificar os todos esses dados separados por países, e olhar todos os resultados inclusives dos lucros.
+# link: https://app.powerbi.com/view?r=eyJrIjoiMzkzYWJiN2ItYzhhNi00OWZhLTgxYWYtMTM2M2M3Njk0Yzk3IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
+
+
+
+
+
+
 
 
