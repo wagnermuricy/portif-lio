@@ -18,6 +18,7 @@ Para visualizar os dashboards, você tem duas opções:
 
 Nesse dashboard de vendas foi destacado as vendas, média e soma dos produtos, tudo separado e ainda é posivél verificar todos esses dados separados por mês ou por anos basta escolher.
 Também é possivél verificar os todos esses dados separados por países, e olhar todos os resultados inclusives dos lucros.
+
 link: https://app.powerbi.com/view?r=eyJrIjoiMzkzYWJiN2ItYzhhNi00OWZhLTgxYWYtMTM2M2M3Njk0Yzk3IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
 
 
