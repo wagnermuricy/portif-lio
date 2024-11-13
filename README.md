@@ -21,6 +21,18 @@ Também é possivél verificar os todos esses dados separados por países, e olh
 
 link: https://app.powerbi.com/view?r=eyJrIjoiMzkzYWJiN2ItYzhhNi00OWZhLTgxYWYtMTM2M2M3Njk0Yzk3IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
 
+"Dashboard de RH"
+
+Esse dashboar ficou bem interessante, após analizar os dados eu escolhi destacar os principais pontos:
+Numeros de funcionários que estão ativos, os demitidos, a quantidade de contratações, separei funcionários por gênero, por cidade e por cargo.
+
+Por último adicionei um TOOLTIP  para facilitar a visualização.
+
+Resultado: Com o resultado ficará bem mais fácil de saber onde está cada funcionário e seus devidos cargos, em caso de projeção podendo almentar ou diminuir o quadro.
+
+link: https://app.powerbi.com/view?r=eyJrIjoiNjU5OGIzYTYtNzJjZi00NTU5LTgzMTctOWE4MGE1OTZiNTI3IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
+
+
 
 
 
