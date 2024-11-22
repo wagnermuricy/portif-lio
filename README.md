@@ -32,6 +32,15 @@ Resultado: Com o resultado ficará bem mais fácil de saber onde está cada func
 
 link: https://app.powerbi.com/view?r=eyJrIjoiNjU5OGIzYTYtNzJjZi00NTU5LTgzMTctOWE4MGE1OTZiNTI3IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
 
+"analise_dataset_kaggle_diabetes"
+
+Esse foi o primeiro dashboard que eu fiz utilizando base de dados do site kaggle.
+nesse dashboard eu utilizei uma base de dados relacionados a diabetes na população.
+resultados das analises: 
+conseguimos destacar a média da glicose e a média da diabetes relacionada a faixa etária.
+
+link:https://app.powerbi.com/view?r=eyJrIjoiMDA5ODgzODgtOTVmYi00ZTU5LTkzMGQtNGJkZmI1ZDVhNDU0IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
+
 
 
 
