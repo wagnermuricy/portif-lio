@@ -41,6 +41,69 @@ conseguimos destacar a média da glicose e a média da diabetes relacionada a fa
 
 link:https://app.powerbi.com/view?r=eyJrIjoiMDA5ODgzODgtOTVmYi00ZTU5LTkzMGQtNGJkZmI1ZDVhNDU0IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
 
+"Dashboard de produção"
+
+Para fazer esse dashboard foi feito os seguintes passos.
+
+1° Importação dos dados
+Após baixar os dados as únicas mudanças iniciais no processo de extração foi excluir linhas e colunas em branco.
+
+2° Criando as medidas com fórmula DAX
+Foram criado 7 medidas irei descrever cada uma.
+
+"HORAS PRODUZIDAS"
+HORAS PRODUZIDAS = CALCULATE(SUM('BASEPRODUÇÃO'[TOTAL HORAS]), 'BASEPRODUÇÃO'[OCORRÊNCIA]=BLANCK())
+
+"HORAS PARADAS"
+HORAS PARADAS = CALCULATE(SUM('BASEPRODUÇÃO'[TOTAL HORAS]), 'BASEPRODUÇÃO'[OCORRÊNCIA]<>BLANCK())
+
+"HORAS"
+HORAS = SUM('BASEPRODUÇÃO'[TOTAL HORAS])
+
+"DISPONIBILIDADE"
+DISPONIBILIDADE = ([HORAS PRODUZIDAS])/(HORAS PRODUZIDAS] + [HORAS PARADAS])
+
+"QUANTIDADE PRODUZIDA" 
+QUANT.PRODUZIDA = SUM('BASEPRODUÇÃO'[QTDPRODUZIDA])
+
+"QUANTIDADE REJEITADA"
+QUANT. REJEITADA = SUM('BASEPRODUÇÃO'[QTD REJEITADA]
+
+"QUALIDADE"
+QUALIDADE = ([QUANT. PRODUZIDA])/([QUANT. PRODUZIDA] + [QUANT.REJEITADA])
+
+3° criação do dashboard
+"Foi criado" 
+
+4 cartões de linha múltipla 
+1 gráfico de área
+2 gráficos de velocímetro 
+1 cartão de segmentação de dados
+
+4° adicionando imagens.
+Depois dos gráficos criados entrei no site www.flaticon.com e baixei algumas imagens para adicionar nos gráficos de cartões de linha múltiplas.
+
+5° Resultado das analises 
+
+Com tudo já finalizado os resultados foram destacar os seguintes pontos:
+
+1° Quantidade produzida
+2° Quantidade rejeitada
+3° Horas produtivas
+4° Horas paradas
+5° Destacar a produção de cada operador
+6° A produção mensal
+7° Mostra a porcentagem da disponibilidade
+8° Mostra a porcentagem da qualidade.
+
+Link:https://app.powerbi.com/view?r=eyJrIjoiMDAzOTA3OTctM2ZiNi00ODFiLWJiZDEtMTcwYmVjYTA3OGE5IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
+
+
+
+
+
+
+
 
 
 
