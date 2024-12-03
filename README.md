@@ -43,6 +43,12 @@ link:https://app.powerbi.com/view?r=eyJrIjoiMDA5ODgzODgtOTVmYi00ZTU5LTkzMGQtNGJk
 
 "Dashboard de produção"
 
+
+
+https://github.com/user-attachments/assets/d9dc4a93-bfd7-4f68-8e33-114dc960014c
+
+
+
 Para fazer esse dashboard foi feito os seguintes passos.
 
 1° Importação dos dados
