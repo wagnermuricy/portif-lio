@@ -44,8 +44,9 @@ link:https://app.powerbi.com/view?r=eyJrIjoiMDA5ODgzODgtOTVmYi00ZTU5LTkzMGQtNGJk
 "Dashboard de produção"
 
 
+![Gravao-de-Tela-2024-11-25-120629-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/95943980-e28a-4560-beb4-dcd02fdd4a95)
 
-https://github.com/user-attachments/assets/d9dc4a93-bfd7-4f68-8e33-114dc960014c
+
 
 
 
