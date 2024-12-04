@@ -16,12 +16,18 @@ Para visualizar os dashboards, você tem duas opções:
 
 "Dashboard de vendas"
 
+![Dashboarddevendas-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5cfe0fd9-2eaf-4925-9547-07f04ef05cfb)
+
+
 Nesse dashboard de vendas foi destacado as vendas, média e soma dos produtos, tudo separado e ainda é posivél verificar todos esses dados separados por mês ou por anos basta escolher.
 Também é possivél verificar os todos esses dados separados por países, e olhar todos os resultados inclusives dos lucros.
 
 link: https://app.powerbi.com/view?r=eyJrIjoiMzkzYWJiN2ItYzhhNi00OWZhLTgxYWYtMTM2M2M3Njk0Yzk3IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
 
 "Dashboard de RH"
+
+![DashboarddeRH-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0267a9fb-a705-44f1-bcfa-162175ca2ed6)
+
 
 Esse dashboar ficou bem interessante, após analizar os dados eu escolhi destacar os principais pontos:
 Numeros de funcionários que estão ativos, os demitidos, a quantidade de contratações, separei funcionários por gênero, por cidade e por cargo.
@@ -33,6 +39,9 @@ Resultado: Com o resultado ficará bem mais fácil de saber onde está cada func
 link: https://app.powerbi.com/view?r=eyJrIjoiNjU5OGIzYTYtNzJjZi00NTU5LTgzMTctOWE4MGE1OTZiNTI3IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
 
 "analise_dataset_kaggle_diabetes"
+
+![Analise_dataset_kaggle-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/db52a7b7-1164-419b-a2dd-328cb37e889e)
+
 
 Esse foi o primeiro dashboard que eu fiz utilizando base de dados do site kaggle.
 nesse dashboard eu utilizei uma base de dados relacionados a diabetes na população.
