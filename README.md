@@ -2,10 +2,10 @@
 
 Neste repositório, você encontrará dois tipos de arquivos: projetos de código em Python e dashboards do Power BI.
 
-# Python
+## Python
 Para acessar os projetos de Python, entre no repositório e escolha o arquivo que deseja visualizar. Obs: Se você abrir o arquivo e clicar em " ...", verá uma breve descrição do projeto.
 
-# Dashboards
+## Dashboards
 Para visualizar os dashboards, você tem duas opções:
 
 1° Entre no repositório e veja em PDF.
@@ -14,94 +14,217 @@ Para visualizar os dashboards, você tem duas opções:
 
 
 
-"Dashboard de vendas"
+## Dashboard de vendas
 
 ![Dashboarddevendas-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5cfe0fd9-2eaf-4925-9547-07f04ef05cfb)
 
+### 🔧 Ferramentas
 
-Nesse dashboard de vendas foi destacado as vendas, média e soma dos produtos, tudo separado e ainda é posivél verificar todos esses dados separados por mês ou por anos basta escolher.
-Também é possivél verificar os todos esses dados separados por países, e olhar todos os resultados inclusives dos lucros.
+-Excel
+-Power BI
 
-link: https://app.powerbi.com/view?r=eyJrIjoiMzkzYWJiN2ItYzhhNi00OWZhLTgxYWYtMTM2M2M3Njk0Yzk3IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
+### 📝 Skills utilizadas
+- Limpeza de dados
 
-"Dashboard de RH"
+- Tratamento de dados
+
+- Coleta de informações
+
+- transformação das informações em insights
+
+- Data visualization
+
+## 🔗 Etapas
+
+### 🔗 Extração
+
+Arquivo retirado do próprio Power Bi.
+
+### 🔗 Trasnformação / Limpeza
+
+Nessas planilhas do Excel as mudanças que foram preciso fazer foi excluir algumas linhas e colunas em branco.
+
+### 🔗 Análise
+Iniciei com o processo de análise exploratória, buscando uma visão geral dos dados, verificando dados faltantes ou duplicados, distribuição e tipos.
+
+Após isso, iniciei algumas análises começando pela divisão de acordo com os dados obtidos.
+
+### 🔗 Resultados das análises
+
+Com a análise dos dados, decidi dividir o dashboard em 3 páginas, assim deixando a visualização mais fácil.
+
+### Página 1
+Na página 1, tudo ficou relacionado às vendas dos produtos, onde é possível acompanhar os resultados obtidos mês a mês, ano a ano. Adicionei a média de venda dos produtos, assim, com os resultados, é possível acompanhar o desenvolvimento mensal e anual para fazer uma projeção futura.
+
+
+### Página 2
+
+Já nesta segunda página, decidi adicionar os lucros obtidos e suas médias, tudo separado por mês, ano e por país, facilitando acompanhar o faturamento obtido mensal e anual.
+
+
+### Página 3 
+
+Nessa página estão os gráficos mostrando a distribuição de lucros, vendas e unidades vendidas por país e segmento.
+
+### Com isso, conseguimos observar todos os dados anuais dessa empresa, sabendo quais foram os produtos vendidos mês a mês, ano a ano, e os lucros obtidos por produto e o faturamento total, tudo separado, facilitando assim uma projeção futura.
+
+
+### 🔗 Teste online: https://app.powerbi.com/view?r=eyJrIjoiMzkzYWJiN2ItYzhhNi00OWZhLTgxYWYtMTM2M2M3Njk0Yzk3IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
+
+
+## Dashboard de RH
 
 ![DashboarddeRH-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0267a9fb-a705-44f1-bcfa-162175ca2ed6)
 
+
+### 🔧 Ferramentas
+
+- Excel
+- Power Bi
+
+### 📝 Skills utilizadas
+
+- Limpeza de dados
+
+- Tratamento de dados
+
+- Coleta de informações
+
+- transformação das informações em insights
+
+- Data visualization
+
+## 🔗 Etapas
+
+### 🔗 Extração
+
+Esses dados foram disponibilizados pela hashtag onde eu aprendi a criar esse relatório
+
+### 🔗 Trasnformação / Limpeza
+Nessas planilhas do Excel as mudanças que foram preciso fazer foi excluir algumas linhas e colunas em branco.
+
+### 🔗 Análise
+
+Iniciei com o processo de análise exploratória, buscando uma visão geral dos dados, verificando dados faltantes ou duplicados, distribuição e tipos, dados em brancos.
+
+### 🔗 Resultados das análises
 
 Esse dashboar ficou bem interessante, após analizar os dados eu escolhi destacar os principais pontos:
 Numeros de funcionários que estão ativos, os demitidos, a quantidade de contratações, separei funcionários por gênero, por cidade e por cargo.
 
 Por último adicionei um TOOLTIP  para facilitar a visualização.
 
-Resultado: Com o resultado ficará bem mais fácil de saber onde está cada funcionário e seus devidos cargos, em caso de projeção podendo almentar ou diminuir o quadro.
+### Com o resultado ficará bem mais fácil de saber onde está cada funcionário e seus devidos cargos,a quantidade por gênero, observar a quantidade de demissões em caso de projeção podendo almentar ou diminuir o quadro.
 
-link: https://app.powerbi.com/view?r=eyJrIjoiNjU5OGIzYTYtNzJjZi00NTU5LTgzMTctOWE4MGE1OTZiNTI3IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
 
-"analise_dataset_kaggle_diabetes"
+### Teste online: https://app.powerbi.com/view?r=eyJrIjoiNjU5OGIzYTYtNzJjZi00NTU5LTgzMTctOWE4MGE1OTZiNTI3IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
+
+
+## analise_dataset_kaggle_diabetes
 
 ![Analise_dataset_kaggle-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/db52a7b7-1164-419b-a2dd-328cb37e889e)
 
+### 🔧 Ferramentas
+- Excel
+- Power BI
 
-Esse foi o primeiro dashboard que eu fiz utilizando base de dados do site kaggle.
-nesse dashboard eu utilizei uma base de dados relacionados a diabetes na população.
-resultados das analises: 
-conseguimos destacar a média da glicose e a média da diabetes relacionada a faixa etária.
+### 📝 Skills utilizadas
+- Limpeza de dados
 
-link:https://app.powerbi.com/view?r=eyJrIjoiMDA5ODgzODgtOTVmYi00ZTU5LTkzMGQtNGJkZmI1ZDVhNDU0IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
+- Tratamento de dados
 
-"Dashboard de produção"
+- Coleta de informações
+
+- transformação das informações em insights
+
+## 🔗 Etapas
+
+### 🔗 Extração
+Essa tabela do excel é pública e foi retirada do site kaggle
+
+### 🔗 Trasnformação / Limpeza
+
+Esses dados ja estavam bem limpos então só precisei excluir colunas duplicadas.
+
+### 🔗 Análise
+Iniciei com o processo de análise exploratória, buscando uma visão geral dos dados, verificando dados faltantes ou duplicados, distribuição e tipos, dados em brancos.
+
+
+### 🔗 Resultados das análises
+Nesse dashboard eu utilizei uma base de dados relacionados a diabetes na população.
+
+### conseguimos destacar a mediana de glicose e a média da diabetes relacionada a faixa etária.
+
+### Teste online:https://app.powerbi.com/view?r=eyJrIjoiMDA5ODgzODgtOTVmYi00ZTU5LTkzMGQtNGJkZmI1ZDVhNDU0IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
+
+## Dashboard de produção
 
 
 ![Gravao-de-Tela-2024-11-25-120629-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/95943980-e28a-4560-beb4-dcd02fdd4a95)
 
 
+### 🔧 Ferramentas
+- Excel
+- Power BI
 
+### 📝 Skills utilizadas
+- Limpeza de dados
 
+- Tratamento de dados
 
-Para fazer esse dashboard foi feito os seguintes passos.
+- Coleta de informações
 
-1° Importação dos dados
-Após baixar os dados as únicas mudanças iniciais no processo de extração foi excluir linhas e colunas em branco.
+- transformação das informações em insights
 
-2° Criando as medidas com fórmula DAX
-Foram criado 7 medidas irei descrever cada uma.
+## 🔗 Etapas
 
-"HORAS PRODUZIDAS"
+### 🔗 Extração
+Essa tabela do excel é pública e foi retirada do site kaggle
+
+### 🔗 Trasnformação / Limpeza
+- Trasnformação
+  Para a transformação foi preciso adicionar 7 medidas que foram:
+
+### HORAS PRODUZIDA
 HORAS PRODUZIDAS = CALCULATE(SUM('BASEPRODUÇÃO'[TOTAL HORAS]), 'BASEPRODUÇÃO'[OCORRÊNCIA]=BLANCK())
 
-"HORAS PARADAS"
+### HORAS PARADAS
 HORAS PARADAS = CALCULATE(SUM('BASEPRODUÇÃO'[TOTAL HORAS]), 'BASEPRODUÇÃO'[OCORRÊNCIA]<>BLANCK())
 
-"HORAS"
+### HORAS
 HORAS = SUM('BASEPRODUÇÃO'[TOTAL HORAS])
 
-"DISPONIBILIDADE"
+### DISPONIBILIDADE
 DISPONIBILIDADE = ([HORAS PRODUZIDAS])/(HORAS PRODUZIDAS] + [HORAS PARADAS])
 
-"QUANTIDADE PRODUZIDA" 
+### QUANTIDADE PRODUZIDA
 QUANT.PRODUZIDA = SUM('BASEPRODUÇÃO'[QTDPRODUZIDA])
 
-"QUANTIDADE REJEITADA"
+### QUANTIDADE REJEITADA
 QUANT. REJEITADA = SUM('BASEPRODUÇÃO'[QTD REJEITADA]
 
-"QUALIDADE"
+### QUALIDADE
 QUALIDADE = ([QUANT. PRODUZIDA])/([QUANT. PRODUZIDA] + [QUANT.REJEITADA])
 
-3° criação do dashboard
-"Foi criado" 
 
+### 🔗 Análise
+Iniciei com o processo de análise exploratória, buscando uma visão geral dos dados, verificando dados faltantes ou duplicados, distribuição e tipos, dados em brancos.
+
+Depois disso fui para a criação do dasboard
+### 1° passo
+- Foi criado
 4 cartões de linha múltipla 
 1 gráfico de área
 2 gráficos de velocímetro 
 1 cartão de segmentação de dados
 
-4° adicionando imagens.
+### 2° passo
+- adicionando imagens.
 Depois dos gráficos criados entrei no site www.flaticon.com e baixei algumas imagens para adicionar nos gráficos de cartões de linha múltiplas.
 
-5° Resultado das analises 
+### 🔗 Resultados das análises
 
-Com tudo já finalizado os resultados foram destacar os seguintes pontos:
+Após finalizado foi possível destacar os seguintes insights:
 
 1° Quantidade produzida
 2° Quantidade rejeitada
@@ -112,7 +235,9 @@ Com tudo já finalizado os resultados foram destacar os seguintes pontos:
 7° Mostra a porcentagem da disponibilidade
 8° Mostra a porcentagem da qualidade.
 
-Link:https://app.powerbi.com/view?r=eyJrIjoiMDAzOTA3OTctM2ZiNi00ODFiLWJiZDEtMTcwYmVjYTA3OGE5IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
+### Com tudo, é possível acompanhar os resultados de cada funcionário, acompanhando sua projeção mensal, acompanhando o dessenvolvimento de cada colaborador.
+
+### Teste online:https://app.powerbi.com/view?r=eyJrIjoiMDAzOTA3OTctM2ZiNi00ODFiLWJiZDEtMTcwYmVjYTA3OGE5IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
 
 
 
