@@ -9,7 +9,7 @@ Neste repositório, você encontrará meus projetos pessoai que venho desenvolve
   
 - 📫 Você me acha através do e-mail **wagnermuricy16@gmail.com**
   
-- 📄 Estou em busca da minha primeira oportunidade na área de dados [https://www.linkedin.com/in/wagner-de-jesus-muricy-ab943731a/
+- 📄 Estou em busca da minha primeira oportunidade na área de dados [https://www.linkedin.com/in/wagner-de-jesus-muricy]
   
 
 
