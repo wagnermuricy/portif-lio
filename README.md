@@ -1,16 +1,61 @@
+-<h1 align="center">olá 👋, eu sou o Wagner</h1>
+<h3 align="center">Apaixonado por ciência de dados e análise de dados</h3>
+
 # "Seja bem vindo ao meu Portifólio"
 
-Neste repositório, você encontrará dois tipos de arquivos: projetos de código em Python e dashboards do Power BI.
+Neste repositório, você encontrará meus projetos pessoai que venho desenvolvendo aprimorando minhas habilidades em: Python, SQL e dashboards do Power BI.
 
-## Python
-Para acessar os projetos de Python, entre no repositório e escolha o arquivo que deseja visualizar. Obs: Se você abrir o arquivo e clicar em " ...", verá uma breve descrição do projeto.
+- 🌱 Atualmente estou aprendendo **Python, SQL e Power BI**
+  
+- 📫 Você me acha através do e-mail **wagnermuricy16@gmail.com**
+  
+- 📄 Estou em busca da minha primeira oportunidade na área de dados [https://www.linkedin.com/in/wagner-de-jesus-muricy-ab943731a/
+  
 
-## Dashboards
-Para visualizar os dashboards, você tem duas opções:
 
-1° Entre no repositório e veja em PDF.
 
-2° No "README", você encontrará uma descrição dos dashboards e, abaixo de cada um, um link para acessá-los diretamente no Power BI, onde poderá testar as funções.
+## Sistema bancário
+
+### 🔧 Ferramentas
+
+-Python
+
+### Descrição do projeto
+
+Aqui está um sistema bancário com as operações: sacar, depositar e visualizar extrato.
+
+"Operação de saque"
+O sistema permite realizar 3 saques diários com limite de no máximo r$500,00 por saque. Caso o usuário não tenha saldo em conta, o sistema irá exibir uma mensagem informando que não será possível sacar o dinheiro por falta de saldo.
+
+"Operação depósito"
+Deve ser possível depositar valores positivos para a conta bancaria. E todos os depósitos será armazenados em uma variável e exibidos na operação extrato.
+
+"Operação extrato"
+Essa operação irá listar todos os depósitos e saques realizados na conta. E no fim da listagem irá ser exibido o saldo atual da conta.
+
+### Link do sistema:https://github.com/wagnermuricy/portif-lio/blob/main/sistema%20b%C3%A1ncario.py
+
+## Automação com Python
+
+### 🔧 Ferramentas
+-Python 
+
+-Pandas
+
+-Pyautogui
+
+### Descrição do projeto
+
+Esse um projeto de automação o desafio do projeto era cadastrar 264 itens com as seguintes informações: código, marca, tipo, categoria, preço, custo e observações.
+Para isso, utilizei uma base de dados, a biblioteca Pandas e a biblioteca Pyautogui.
+E esse foi o resultado alcançado.
+
+"obs.: pra você usar terá que achar as posiçoes do mouse de acordo com o seu pc"
+
+### Link do sistema:https://github.com/wagnermuricy/portif-lio/blob/main/automa%C3%A7%C3%A3o.py
+
+
+
 
 ## Relatório criativo
 
@@ -21,6 +66,7 @@ Para visualizar os dashboards, você tem duas opções:
 ### 🔧 Ferramentas
 
 -Excel
+
 -Power BI
 
 ### 📝 Skills utilizadas
@@ -77,6 +123,7 @@ E no relatório tamben aprendi a colocar botões flutuantes tanto para mudar o g
 ### 🔧 Ferramentas
 
 -Excel
+
 -Power BI
 
 ### 📝 Skills utilizadas
@@ -136,6 +183,7 @@ Nessa página estão os gráficos mostrando a distribuição de lucros, vendas e
 ### 🔧 Ferramentas
 
 - Excel
+  
 - Power Bi
 
 ### 📝 Skills utilizadas
@@ -182,6 +230,7 @@ Por último adicionei um TOOLTIP  para facilitar a visualização.
 
 ### 🔧 Ferramentas
 - Excel
+  
 - Power BI
 
 ### 📝 Skills utilizadas
@@ -221,6 +270,7 @@ Nesse dashboard eu utilizei uma base de dados relacionados a diabetes na popula�
 
 ### 🔧 Ferramentas
 - Excel
+  
 - Power BI
 
 ### 📝 Skills utilizadas
