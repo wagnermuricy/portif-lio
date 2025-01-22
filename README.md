@@ -12,6 +12,62 @@ Para visualizar os dashboards, você tem duas opções:
 
 2° No "README", você encontrará uma descrição dos dashboards e, abaixo de cada um, um link para acessá-los diretamente no Power BI, onde poderá testar as funções.
 
+## Relatório criativo
+
+
+![GravaodeTela2025-01-21000806-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/65ada28b-474d-4890-b635-2c62de2d339f)
+
+
+### 🔧 Ferramentas
+
+-Excel
+-Power BI
+
+### 📝 Skills utilizadas
+- Limpeza de dados
+
+- Tratamento de dados
+
+- Coleta de informações
+
+- transformação das informações em insights
+
+- Data visualization
+
+## 🔗 Etapas
+
+### 🔗 Extração
+
+Arquivo retirado do próprio Power Bi.
+
+### 🔗 Transformação / Limpeza
+
+Nessas planilhas do Excel as mudanças que foram preciso fazer foi excluir algumas linhas e colunas em branco.
+
+### 🔗 Análise
+Iniciei com o processo de análise exploratória, buscando uma visão geral dos dados, verificando dados faltantes ou duplicados, distribuição e tipos.
+
+Após isso, iniciei algumas análises começando pela divisão de acordo com os dados obtidos e dividi esse relatório em duas páginas.
+
+Página 1
+
+Na primeira página, após algumas análises, decidi organizar todas as informações relacionadas às vendas. Desta forma, é possível acompanhar todas as vendas, a quantidade de produtos vendidos, o segmento desses produtos e os países de destino. Além disso, essas análises podem ser visualizadas de forma diária, mensal e anual.
+
+obs: Nos cartes sales x segmento e no sales x country foi adicionado 2 botões em cada um assim podendo mudar os gráficos.
+
+Página 2
+
+Na segunda página, seguindo as análises, foi adicionado o lucro detalhado, separado por produto, país, data e classe.
+
+
+### 🔗 Resultados das análises
+
+Com as análises realizadas, eu aprendi a organizar e detalhar informações de vendas e lucros, facilitando o acompanhamento e a obtenção de insights valiosos sobre o desempenho de produtos, países, datas e classes.assim podendo fazer o acompanhamento anual dessa empresa para assim tomar decisôes futuras.
+
+E no relatório tamben aprendi a colocar botões flutuantes tanto para mudar o gráfico quanto para mudar de página.
+
+### 🔗 Teste as funções online:https://app.powerbi.com/view?r=eyJrIjoiZjU2NzQ2MzgtZmZiNy00MjRmLWIxOTAtMzNiM2NlNGEzN2YyIiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
+
 
 
 ## Dashboard de vendas
@@ -69,7 +125,7 @@ Nessa página estão os gráficos mostrando a distribuição de lucros, vendas e
 ### Com isso, conseguimos observar todos os dados anuais dessa empresa, sabendo quais foram os produtos vendidos mês a mês, ano a ano, e os lucros obtidos por produto e o faturamento total, tudo separado, facilitando assim uma projeção futura.
 
 
-### 🔗 Teste online: https://app.powerbi.com/view?r=eyJrIjoiMzkzYWJiN2ItYzhhNi00OWZhLTgxYWYtMTM2M2M3Njk0Yzk3IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
+### 🔗 Teste as funções online: https://app.powerbi.com/view?r=eyJrIjoiMzkzYWJiN2ItYzhhNi00OWZhLTgxYWYtMTM2M2M3Njk0Yzk3IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
 
 
 ## Dashboard de RH
@@ -117,7 +173,7 @@ Por último adicionei um TOOLTIP  para facilitar a visualização.
 ### Com o resultado ficará bem mais fácil de saber onde está cada funcionário e seus devidos cargos,a quantidade por gênero, observar a quantidade de demissões em caso de projeção podendo almentar ou diminuir o quadro.
 
 
-### Teste online: https://app.powerbi.com/view?r=eyJrIjoiNjU5OGIzYTYtNzJjZi00NTU5LTgzMTctOWE4MGE1OTZiNTI3IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
+### 🔗 Teste as funções online: https://app.powerbi.com/view?r=eyJrIjoiNjU5OGIzYTYtNzJjZi00NTU5LTgzMTctOWE4MGE1OTZiNTI3IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
 
 
 ## analise_dataset_kaggle_diabetes
@@ -155,7 +211,7 @@ Nesse dashboard eu utilizei uma base de dados relacionados a diabetes na popula�
 
 ### conseguimos destacar a mediana de glicose e a média da diabetes relacionada a faixa etária.
 
-### Teste online:https://app.powerbi.com/view?r=eyJrIjoiMDA5ODgzODgtOTVmYi00ZTU5LTkzMGQtNGJkZmI1ZDVhNDU0IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
+### 🔗 Teste as funções online:https://app.powerbi.com/view?r=eyJrIjoiMDA5ODgzODgtOTVmYi00ZTU5LTkzMGQtNGJkZmI1ZDVhNDU0IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
 
 ## Dashboard de produção
 
@@ -237,7 +293,7 @@ Após finalizado foi possível destacar os seguintes insights:
 
 ### Com tudo, é possível acompanhar os resultados de cada funcionário, acompanhando sua projeção mensal, acompanhando o dessenvolvimento de cada colaborador.
 
-### Teste online:https://app.powerbi.com/view?r=eyJrIjoiMDAzOTA3OTctM2ZiNi00ODFiLWJiZDEtMTcwYmVjYTA3OGE5IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
+### 🔗 Teste as funções online:https://app.powerbi.com/view?r=eyJrIjoiMDAzOTA3OTctM2ZiNi00ODFiLWJiZDEtMTcwYmVjYTA3OGE5IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
 
 
 
