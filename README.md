@@ -341,7 +341,7 @@ Após finalizado foi possível destacar os seguintes insights:
 7° Mostra a porcentagem da disponibilidade
 8° Mostra a porcentagem da qualidade.
 
-### Com tudo, é possível acompanhar os resultados de cada funcionário, acompanhando sua projeção mensal, acompanhando o dessenvolvimento de cada colaborador.
+### Com tudo, é possível acompanhar os resultados de cada funcionário, acompanhando sua projeção mensal, acompanhando o desenvolvimento de cada colaborador.
 
 ### 🔗 Teste as funções online:https://app.powerbi.com/view?r=eyJrIjoiMDAzOTA3OTctM2ZiNi00ODFiLWJiZDEtMTcwYmVjYTA3OGE5IiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
 
