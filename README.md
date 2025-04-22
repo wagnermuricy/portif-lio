@@ -55,7 +55,10 @@ E esse foi o resultado alcançado.
 ### Link do sistema:https://github.com/wagnermuricy/portif-lio/blob/main/automa%C3%A7%C3%A3o.py
 
 
-## Relatório gerencial - MYSQL com POWER BI
+## 🔗 Relatório gerencial - MYSQL com POWER BI
+
+![GravaodeTela2025-03-26220235-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/248ff962-decc-4771-99e4-17fd9919a9de)
+
 
 
 ### 🔧 Ferramentas
@@ -119,6 +122,8 @@ Relação entre funcionários e dependentes, auxiliando na tomada de decisões s
 ##  O Impacto: 
 
 Este dashboard me mostrou como a análise de dados pode transformar informações dispersas em decisões estratégicas e otimizadas. Mais do que números, são histórias que os dados contam — e eu tive o prazer de interpretá-las.
+
+### 🔗 Teste as funções online:https:https://app.powerbi.com/view?r=eyJrIjoiNGRkNmVmMWItNTRlNC00MDJjLWE4NzAtMWQ3YjE5ZmE4ZDRjIiwidCI6ImQ1NTZmMWRlLTA1ZDMtNDNiZC1iMGMyLTIzODY4ZWEyNGFlNSJ9
 
 
 
