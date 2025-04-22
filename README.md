@@ -54,6 +54,77 @@ E esse foi o resultado alcançado.
 
 ### Link do sistema:https://github.com/wagnermuricy/portif-lio/blob/main/automa%C3%A7%C3%A3o.py
 
+
+## Relatório gerencial - MYSQL com POWER BI
+
+
+### 🔧 Ferramentas
+
+-Excel
+
+-Power BI
+
+-MY-SQL
+
+### 📝 Skills utilizadas
+- Limpeza de dados
+
+- Tratamento de dados
+
+- Coleta de informações
+
+- transformação das informações em insights
+
+- Data visualization
+
+## 🔗 Etapas
+
+### 🔗 Extração
+
+Arquivo retirado do MY-SQL.
+
+### 🔗 Transformação / Limpeza
+
+Comecei o processo de limpeza no MYSQL juntando os dados e transformando em tabelas, Depois extrai para o Power BI e as mudanças que foram preciso fazer foi excluir algumas linhas e colunas em branco.
+
+### 🔗 Análise
+Iniciei com o processo de análise exploratória, buscando uma visão geral dos dados, verificando dados faltantes ou duplicados, distribuição e tipos.
+
+### construção
+
+Depois de analisar os dados foi criado os seguintes gráficos:
+
+
+Gráfico de Colunas Empilhadas: Média salarial por setor para identificar disparidades e propor melhorias.
+
+Gráfico de Hierarquia: Exibição das relações entre funcionários e seus dependentes, proporcionando insights sobre o suporte social na empresa.
+
+Cartões Dinâmicos: Totais de funcionários, salários pagos e dependentes, permitindo uma visão geral rápida e eficaz.
+
+Gráfico de Rosca: Alocação de funcionários por projetos, ajudando a balancear recursos.
+
+Mapa Geográfico: Localizações de departamentos para otimizar estratégias regionais.
+
+Segmentação de Dados: Filtros interativos por setores e funcionários para análises personalizadas.
+
+
+### 🔗 Resultados das análises
+
+##  Insights Extraídos:
+
+Identificação de setores com maior concentração de salários totais.
+Distribuição de horas e esforços alocados por projeto, evidenciando equilíbrio (ou desequilíbrio) de recursos.
+Relação entre funcionários e dependentes, auxiliando na tomada de decisões sobre benefícios e suporte interno.
+
+##  O Impacto: 
+
+Este dashboard me mostrou como a análise de dados pode transformar informações dispersas em decisões estratégicas e otimizadas. Mais do que números, são histórias que os dados contam — e eu tive o prazer de interpretá-las.
+
+
+
+
+
+
 ## Relatório Financeiro
 
 ![GravaodeTela2025-02-12021219-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3bebe297-755a-4416-829d-a5df903c2af6)
